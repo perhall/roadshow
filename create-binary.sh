@@ -1,5 +1,8 @@
 #!/bin/bash
 
+Echo Starting script " ########### $0 $* "
+
+
 # Example on creating some kind of binary file that can be traced
 
 if [ $# -ne 1 ]
